@@ -1,5 +1,6 @@
-# WheaterMan
+# WeatherMan :anger:
 Weather forescast and statistics in your area!
+:earth_africa:
 
 ## Version roadmap
 

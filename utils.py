@@ -5,7 +5,7 @@ import datetime
 import requests
 
 # Hardcoded variables (to be extracted into other dedicated module)
-LOG_FILE = "logs/WheaterMan.log"
+LOG_FILE = "logs/WeatherMan.log"
 API_KEY = "33374ad19b134b3003cb38b0851e2094"
 
 # ****** Log configuration and initialization ******
